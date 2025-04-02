@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6293260e-45c3-4021-b090-7ac4e796df26" name="Changes" comment="Brand name generator" />
+    <list default="true" id="6293260e-45c3-4021-b090-7ac4e796df26" name="Changes" comment="Brand name generator">
+      <change afterPath="$PROJECT_DIR$/Day3Project/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +47,9 @@
   "keyToString": {
     "Python.BandNameGenerator.executor": "Run",
     "Python.BillCalculator.executor": "Run",
+    "Python.game.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
