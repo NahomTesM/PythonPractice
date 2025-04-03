@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6293260e-45c3-4021-b090-7ac4e796df26" name="Changes" comment="Brand name generator">
-      <change afterPath="$PROJECT_DIR$/Day3Project/game.py" afterDir="false" />
+    <list default="true" id="6293260e-45c3-4021-b090-7ac4e796df26" name="Changes" comment="treasure game">
+      <change afterPath="$PROJECT_DIR$/Day4Project/Rock_Paper_Scissor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
   "keyToString": {
     "Python.BandNameGenerator.executor": "Run",
     "Python.BillCalculator.executor": "Run",
+    "Python.Rock_Paper_Scissor.executor": "Run",
     "Python.game.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -93,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743234170491</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="treasure game">
+      <option name="closed" value="true" />
+      <created>1743633410472</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743633410472</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Brand name generator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Brand name generator" />
+    <MESSAGE value="treasure game" />
+    <option name="LAST_COMMIT_MESSAGE" value="treasure game" />
   </component>
 </project>
